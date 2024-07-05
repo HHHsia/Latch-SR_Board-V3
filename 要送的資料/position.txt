@@ -1,0 +1,104 @@
+Partlist
+
+Exported from untitled.brd at 2023/9/13 下午 05:32
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Assembly variant: 
+
+Part                       Value                                                              Package                           Library                        Position (mm)         Orientation
+
+CONNECTION_BETWEEN_SR5-6   0R                                                                 M0805                             rcl                            (-3 30)               R270
+CONNECTION_BETWEEN_SR10-11 0R                                                                 M0805                             rcl                            (-3 50)               R270
+CONNECTION_BETWEEN_SR15-16 0R                                                                 M0805                             rcl                            (-3 70)               R270
+CONNECTION_BETWEEN_SR20-21 0R                                                                 M0805                             rcl                            (-3 90)               R270
+EN_JP1                                                                                        1X10                              pinhead                        (-10 55)              R90
+EN_JP2                                                                                        1X10                              pinhead                        (117 55)              R90
+FPC1                       FH12-20S-0.5SH                                                     FH12-20S-0.5SH                    con-hirose                     (10 10)               MR180
+FPC2                       FH12-20S-0.5SH                                                     FH12-20S-0.5SH                    con-hirose                     (40 10)               MR180
+FPC3                       FH12-20S-0.5SH                                                     FH12-20S-0.5SH                    con-hirose                     (70 10)               MR180
+FPC4                       FH12-20S-0.5SH                                                     FH12-20S-0.5SH                    con-hirose                     (100 10)              MR180
+FPC5                       FH12-20S-0.5SH                                                     FH12-20S-0.5SH                    con-hirose                     (10 31.25)            MR180
+FPC6                       FH12-20S-0.5SH                                                     FH12-20S-0.5SH                    con-hirose                     (40 31.25)            MR180
+FPC7                       FH12-20S-0.5SH                                                     FH12-20S-0.5SH                    con-hirose                     (70 31.25)            MR180
+FPC8                       FH12-20S-0.5SH                                                     FH12-20S-0.5SH                    con-hirose                     (100 31.25)           MR180
+FPC9                       FH12-20S-0.5SH                                                     FH12-20S-0.5SH                    con-hirose                     (10 52.5)             MR180
+FPC10                      FH12-20S-0.5SH                                                     FH12-20S-0.5SH                    con-hirose                     (40 52.5)             MR180
+FPC11                      FH12-20S-0.5SH                                                     FH12-20S-0.5SH                    con-hirose                     (70 52.5)             MR180
+FPC12                      FH12-20S-0.5SH                                                     FH12-20S-0.5SH                    con-hirose                     (100 52.5)            MR180
+FPC13                      FH12-20S-0.5SH                                                     FH12-20S-0.5SH                    con-hirose                     (10 73.75)            MR180
+FPC14                      FH12-20S-0.5SH                                                     FH12-20S-0.5SH                    con-hirose                     (40 73.75)            MR180
+FPC15                      FH12-20S-0.5SH                                                     FH12-20S-0.5SH                    con-hirose                     (70 73.75)            MR180
+FPC16                      FH12-20S-0.5SH                                                     FH12-20S-0.5SH                    con-hirose                     (100 73.75)           MR180
+FPC17                      FH12-20S-0.5SH                                                     FH12-20S-0.5SH                    con-hirose                     (10 95)               MR180
+FPC18                      FH12-20S-0.5SH                                                     FH12-20S-0.5SH                    con-hirose                     (40 95)               MR180
+FPC19                      FH12-20S-0.5SH                                                     FH12-20S-0.5SH                    con-hirose                     (70 95)               MR180
+FPC20                      FH12-20S-0.5SH                                                     FH12-20S-0.5SH                    con-hirose                     (100 95)              MR180
+IN_JP1                                                                                        1X02                              pinhead                        (-5 20)               R90
+IN_JP2                                                                                        1X02                              pinhead                        (-5 40)               R90
+IN_JP3                                                                                        1X02                              pinhead                        (-5 60)               R90
+IN_JP4                                                                                        1X02                              pinhead                        (-5 80)               R90
+IN_JP5                                                                                        1X02                              pinhead                        (-5 100)              R90
+L1                         TEXAS_INSTRUMENTS_SN74LVC16373ATEXAS_INSTRUMENTS_SN74LVC16373A_0_2 TEXAS_INSTRUMENTS_SN74LVC16373A_2 SN74LVC16373A(NEW_16BIT_LATCH) (10 10)               R90
+L2                         TEXAS_INSTRUMENTS_SN74LVC16373ATEXAS_INSTRUMENTS_SN74LVC16373A_0_2 TEXAS_INSTRUMENTS_SN74LVC16373A_2 SN74LVC16373A(NEW_16BIT_LATCH) (32.5 10)             R90
+L3                         TEXAS_INSTRUMENTS_SN74LVC16373ATEXAS_INSTRUMENTS_SN74LVC16373A_0_2 TEXAS_INSTRUMENTS_SN74LVC16373A_2 SN74LVC16373A(NEW_16BIT_LATCH) (55 10)               R90
+L4                         TEXAS_INSTRUMENTS_SN74LVC16373ATEXAS_INSTRUMENTS_SN74LVC16373A_0_2 TEXAS_INSTRUMENTS_SN74LVC16373A_2 SN74LVC16373A(NEW_16BIT_LATCH) (77.5 10)             R90
+L5                         TEXAS_INSTRUMENTS_SN74LVC16373ATEXAS_INSTRUMENTS_SN74LVC16373A_0_2 TEXAS_INSTRUMENTS_SN74LVC16373A_2 SN74LVC16373A(NEW_16BIT_LATCH) (100 10)              R90
+L6                         TEXAS_INSTRUMENTS_SN74LVC16373ATEXAS_INSTRUMENTS_SN74LVC16373A_0_2 TEXAS_INSTRUMENTS_SN74LVC16373A_2 SN74LVC16373A(NEW_16BIT_LATCH) (10 31.25)            R90
+L7                         TEXAS_INSTRUMENTS_SN74LVC16373ATEXAS_INSTRUMENTS_SN74LVC16373A_0_2 TEXAS_INSTRUMENTS_SN74LVC16373A_2 SN74LVC16373A(NEW_16BIT_LATCH) (32.5 31.25)          R90
+L8                         TEXAS_INSTRUMENTS_SN74LVC16373ATEXAS_INSTRUMENTS_SN74LVC16373A_0_2 TEXAS_INSTRUMENTS_SN74LVC16373A_2 SN74LVC16373A(NEW_16BIT_LATCH) (55 31.25)            R90
+L9                         TEXAS_INSTRUMENTS_SN74LVC16373ATEXAS_INSTRUMENTS_SN74LVC16373A_0_2 TEXAS_INSTRUMENTS_SN74LVC16373A_2 SN74LVC16373A(NEW_16BIT_LATCH) (77.5 31.25)          R90
+L10                        TEXAS_INSTRUMENTS_SN74LVC16373ATEXAS_INSTRUMENTS_SN74LVC16373A_0_2 TEXAS_INSTRUMENTS_SN74LVC16373A_2 SN74LVC16373A(NEW_16BIT_LATCH) (100 31.25)           R90
+L11                        TEXAS_INSTRUMENTS_SN74LVC16373ATEXAS_INSTRUMENTS_SN74LVC16373A_0_2 TEXAS_INSTRUMENTS_SN74LVC16373A_2 SN74LVC16373A(NEW_16BIT_LATCH) (10 52.5)             R90
+L12                        TEXAS_INSTRUMENTS_SN74LVC16373ATEXAS_INSTRUMENTS_SN74LVC16373A_0_2 TEXAS_INSTRUMENTS_SN74LVC16373A_2 SN74LVC16373A(NEW_16BIT_LATCH) (32.5 52.5)           R90
+L13                        TEXAS_INSTRUMENTS_SN74LVC16373ATEXAS_INSTRUMENTS_SN74LVC16373A_0_2 TEXAS_INSTRUMENTS_SN74LVC16373A_2 SN74LVC16373A(NEW_16BIT_LATCH) (55 52.5)             R90
+L14                        TEXAS_INSTRUMENTS_SN74LVC16373ATEXAS_INSTRUMENTS_SN74LVC16373A_0_2 TEXAS_INSTRUMENTS_SN74LVC16373A_2 SN74LVC16373A(NEW_16BIT_LATCH) (77.5 52.5)           R90
+L15                        TEXAS_INSTRUMENTS_SN74LVC16373ATEXAS_INSTRUMENTS_SN74LVC16373A_0_2 TEXAS_INSTRUMENTS_SN74LVC16373A_2 SN74LVC16373A(NEW_16BIT_LATCH) (100 52.5)            R90
+L16                        TEXAS_INSTRUMENTS_SN74LVC16373ATEXAS_INSTRUMENTS_SN74LVC16373A_0_2 TEXAS_INSTRUMENTS_SN74LVC16373A_2 SN74LVC16373A(NEW_16BIT_LATCH) (10 73.75)            R90
+L17                        TEXAS_INSTRUMENTS_SN74LVC16373ATEXAS_INSTRUMENTS_SN74LVC16373A_0_2 TEXAS_INSTRUMENTS_SN74LVC16373A_2 SN74LVC16373A(NEW_16BIT_LATCH) (32.5 73.75)          R90
+L18                        TEXAS_INSTRUMENTS_SN74LVC16373ATEXAS_INSTRUMENTS_SN74LVC16373A_0_2 TEXAS_INSTRUMENTS_SN74LVC16373A_2 SN74LVC16373A(NEW_16BIT_LATCH) (55 73.75)            R90
+L19                        TEXAS_INSTRUMENTS_SN74LVC16373ATEXAS_INSTRUMENTS_SN74LVC16373A_0_2 TEXAS_INSTRUMENTS_SN74LVC16373A_2 SN74LVC16373A(NEW_16BIT_LATCH) (77.5 73.75)          R90
+L20                        TEXAS_INSTRUMENTS_SN74LVC16373ATEXAS_INSTRUMENTS_SN74LVC16373A_0_2 TEXAS_INSTRUMENTS_SN74LVC16373A_2 SN74LVC16373A(NEW_16BIT_LATCH) (100 73.75)           R90
+L21                        TEXAS_INSTRUMENTS_SN74LVC16373ATEXAS_INSTRUMENTS_SN74LVC16373A_0_2 TEXAS_INSTRUMENTS_SN74LVC16373A_2 SN74LVC16373A(NEW_16BIT_LATCH) (10 95)               R90
+L22                        TEXAS_INSTRUMENTS_SN74LVC16373ATEXAS_INSTRUMENTS_SN74LVC16373A_0_2 TEXAS_INSTRUMENTS_SN74LVC16373A_2 SN74LVC16373A(NEW_16BIT_LATCH) (32.5 95)             R90
+L23                        TEXAS_INSTRUMENTS_SN74LVC16373ATEXAS_INSTRUMENTS_SN74LVC16373A_0_2 TEXAS_INSTRUMENTS_SN74LVC16373A_2 SN74LVC16373A(NEW_16BIT_LATCH) (55 95)               R90
+L24                        TEXAS_INSTRUMENTS_SN74LVC16373ATEXAS_INSTRUMENTS_SN74LVC16373A_0_2 TEXAS_INSTRUMENTS_SN74LVC16373A_2 SN74LVC16373A(NEW_16BIT_LATCH) (77.5 95)             R90
+L25                        TEXAS_INSTRUMENTS_SN74LVC16373ATEXAS_INSTRUMENTS_SN74LVC16373A_0_2 TEXAS_INSTRUMENTS_SN74LVC16373A_2 SN74LVC16373A(NEW_16BIT_LATCH) (100 95)              R90
+LATCH1-2                   0R                                                                 M0805                             rcl                            (-7 30)               R270
+LATCH2-3                   0R                                                                 M0805                             rcl                            (-7 50)               R270
+LATCH3-4                   0R                                                                 M0805                             rcl                            (-7 70)               R270
+LATCH4-5                   0R                                                                 M0805                             rcl                            (-7 90)               R270
+OUT_JP1                                                                                       1X02                              pinhead                        (113 20)              R90
+OUT_JP2                                                                                       1X02                              pinhead                        (113 40)              R90
+OUT_JP3                                                                                       1X02                              pinhead                        (113 60)              R90
+OUT_JP4                                                                                       1X02                              pinhead                        (113 80)              R90
+OUT_JP5                                                                                       1X02                              pinhead                        (113 100)             R90
+POWER_JP1                                                                                     1X04                              pinhead                        (-10 15)              R90
+POWER_JP2                                                                                     1X04                              pinhead                        (-10 95)              R90
+POWER_JP3                                                                                     1X04                              pinhead                        (117 15)              R90
+POWER_JP4                                                                                     1X04                              pinhead                        (117 95)              R90
+SR1                        74HC595                                                            SO16                              74HC595                        (10 20)               R0
+SR2                        74HC595                                                            SO16                              74HC595                        (32.5 20)             R0
+SR3                        74HC595                                                            SO16                              74HC595                        (55 20)               R0
+SR4                        74HC595                                                            SO16                              74HC595                        (77.5 20)             R0
+SR5                        74HC595                                                            SO16                              74HC595                        (100 20)              R0
+SR6                        74HC595                                                            SO16                              74HC595                        (10 41.25)            R0
+SR7                        74HC595                                                            SO16                              74HC595                        (32.5 41.25)          R0
+SR8                        74HC595                                                            SO16                              74HC595                        (55 41.25)            R0
+SR9                        74HC595                                                            SO16                              74HC595                        (77.5 41.25)          R0
+SR10                       74HC595                                                            SO16                              74HC595                        (100 41.25)           R0
+SR11                       74HC595                                                            SO16                              74HC595                        (10 62.5)             R0
+SR12                       74HC595                                                            SO16                              74HC595                        (32.5 62.5)           R0
+SR13                       74HC595                                                            SO16                              74HC595                        (55 62.5)             R0
+SR14                       74HC595                                                            SO16                              74HC595                        (77.5 62.5)           R0
+SR15                       74HC595                                                            SO16                              74HC595                        (100 62.5)            R0
+SR16                       74HC595                                                            SO16                              74HC595                        (10 83.75)            R0
+SR17                       74HC595                                                            SO16                              74HC595                        (32.5 83.75)          R0
+SR18                       74HC595                                                            SO16                              74HC595                        (55 83.75)            R0
+SR19                       74HC595                                                            SO16                              74HC595                        (77.5 83.75)          R0
+SR20                       74HC595                                                            SO16                              74HC595                        (100 83.75)           R0
+SR21                       74HC595                                                            SO16                              74HC595                        (10 105)              R0
+SR22                       74HC595                                                            SO16                              74HC595                        (32.5 105)            R0
+SR23                       74HC595                                                            SO16                              74HC595                        (55 105)              R0
+SR24                       74HC595                                                            SO16                              74HC595                        (77.5 105)            R0
+SR25                       74HC595                                                            SO16                              74HC595                        (100 105)             R0
